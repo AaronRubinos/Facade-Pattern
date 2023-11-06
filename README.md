@@ -1,4 +1,4 @@
-# Facade-Pattern
+# FACADE DESIGN PATTERN
 
 Simplified Hotel Management System
 
@@ -16,5 +16,7 @@ Cart: A service class implementing the HotelService interface, responsible for h
 FrontDesk: The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services.
 
 HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
+
+# UML CLASS DIAGRAM
 
 ![3BSCS1_Rubinos_LAB_A7_SoftEng1](https://github.com/AaronRubinos/Facade-Pattern/assets/142986554/842cb678-045e-44de-8e60-5213b67d0e88)
